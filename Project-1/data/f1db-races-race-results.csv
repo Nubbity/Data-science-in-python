@@ -26430,3 +26430,23 @@
 1106,2024,5,18,,"DNF","3","daniel-ricciardo","rb","honda-rbpt","pirelli",false,33,,,,,,,,,,"Collision damage",,12,"12",,false,1,false,false
 1106,2024,5,19,,"DNF","22","yuki-tsunoda","rb","honda-rbpt","pirelli",false,26,,,,,,,,,,"Collision",,19,"19",,false,2,false,false
 1106,2024,5,20,,"DNF","77","valtteri-bottas","kick-sauber","ferrari","pirelli",false,19,,,,,,,,,,"Engine",,10,"10",,false,1,false,false
+1107,2024,6,1,1,"1","4","lando-norris","mclaren","mercedes","pirelli",false,57,"1:30:49.876",5449876,,,,,,,,,25,5,"5",4,false,1,true,false
+1107,2024,6,2,2,"2","1","max-verstappen","red-bull","honda-rbpt","pirelli",false,57,"1:30:57.488",5457488,,,"+7.612",7612,,"+7.612",7612,,18,1,"1",-1,false,1,false,false
+1107,2024,6,3,3,"3","16","charles-leclerc","ferrari","ferrari","pirelli",false,57,"1:30:59.796",5459796,,,"+9.920",9920,,"+2.308",2308,,15,2,"2",-1,false,1,false,false
+1107,2024,6,4,4,"4","11","sergio-perez","red-bull","honda-rbpt","pirelli",false,57,"1:31:04.526",5464526,,,"+14.650",14650,,"+4.730",4730,,,4,"4",0,false,2,false,false
+1107,2024,6,5,5,"5","55","carlos-sainz-jr","ferrari","ferrari","pirelli",false,57,"1:31:06.283",5466283,"5.000",5000,"+16.407",16407,,"+1.757",1757,,,3,"3",-2,false,1,false,false
+1107,2024,6,6,6,"6","44","lewis-hamilton","mercedes","mercedes","pirelli",false,57,"1:31:06.461",5466461,,,"+16.585",16585,,"+0.178",178,,8,8,"8",2,false,1,false,false
+1107,2024,6,7,7,"7","22","yuki-tsunoda","rb","honda-rbpt","pirelli",false,57,"1:31:16.061",5476061,,,"+26.185",26185,,"+9.600",9600,,6,10,"10",3,false,1,false,false
+1107,2024,6,8,8,"8","63","george-russell","mercedes","mercedes","pirelli",false,57,"1:31:24.665",5484665,,,"+34.789",34789,,"+8.604",8604,,4,7,"7",-1,false,1,false,false
+1107,2024,6,9,9,"9","14","fernando-alonso","aston-martin","mercedes","pirelli",false,57,"1:31:26.983",5486983,,,"+37.107",37107,,"+2.318",2318,,2,15,"15",6,false,1,false,false
+1107,2024,6,10,10,"10","31","esteban-ocon","alpine","renault","pirelli",false,57,"1:31:29.622",5489622,,,"+39.746",39746,,"+2.639",2639,,1,13,"13",3,false,1,false,false
+1107,2024,6,11,11,"11","27","nico-hulkenberg","haas","ferrari","pirelli",false,57,"1:31:30.665",5490665,,,"+40.789",40789,,"+1.043",1043,,,9,"9",-2,false,2,false,false
+1107,2024,6,12,12,"12","10","pierre-gasly","alpine","renault","pirelli",false,57,"1:31:34.834",5494834,,,"+44.958",44958,,"+4.169",4169,,,12,"12",0,false,1,false,false
+1107,2024,6,13,13,"13","81","oscar-piastri","mclaren","mercedes","pirelli",false,57,"1:31:39.632",5499632,,,"+49.756",49756,,"+4.798",4798,,,6,"6",-7,true,2,false,false
+1107,2024,6,14,14,"14","24","guanyu-zhou","kick-sauber","ferrari","pirelli",false,57,"1:31:39.855",5499855,,,"+49.979",49979,,"+0.223",223,,,19,"19",5,false,1,false,false
+1107,2024,6,15,15,"15","3","daniel-ricciardo","rb","honda-rbpt","pirelli",false,57,"1:31:40.832",5500832,,,"+50.956",50956,,"+0.977",977,,,20,"20",5,false,1,false,false
+1107,2024,6,16,16,"16","77","valtteri-bottas","kick-sauber","ferrari","pirelli",false,57,"1:31:42.232",5502232,,,"+52.356",52356,,"+1.400",1400,,,16,"16",0,false,2,false,false
+1107,2024,6,17,17,"17","18","lance-stroll","aston-martin","mercedes","pirelli",false,57,"1:31:45.049",5505049,"10.000",10000,"+55.173",55173,,"+2.817",2817,,,11,"11",-6,false,2,false,false
+1107,2024,6,18,18,"18","23","alexander-albon","williams","mercedes","pirelli",false,57,"1:32:05.967",5525967,,,"+1:16.091",76091,,"+20.918",20918,,,14,"14",-4,false,2,false,false
+1107,2024,6,19,19,"19","20","kevin-magnussen","haas","ferrari","pirelli",false,57,"1:32:14.559",5534559,"30.000",30000,"+1:24.683",84683,,"+8.592",8592,,,18,"18",-1,false,3,false,false
+1107,2024,6,20,,"DNF","2","logan-sargeant","williams","mercedes","pirelli",false,27,,,,,,,,,,"Collision",,17,"17",,false,1,false,false
